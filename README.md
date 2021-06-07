@@ -21,7 +21,13 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/kunal._.khandelwal/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
  
 ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kunalkhandelwal&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
- </a> 
+ 
+ <a href="https://kunalkhandelwal.github.io">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalkhandelwal&count_private=true" align="center"/>
+</a>
+<a href="https://kunalkhandelwal.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkhandelwal&layout=compact" align="center"/>
+</a> 
 </p>
   
 <!--
