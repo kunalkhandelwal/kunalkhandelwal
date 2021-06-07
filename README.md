@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<a href="https://twitter.com/Kunal_K29"><img src="https://aleen42.github.io/badges/src/twitter.svg" height=25></a> 
-<a href="https://www.linkedin.com/in/kunal-khandelwal-54b4b117a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-<a href="https://www.instagram.com/kunal._.khandelwal/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
- 
 <a href="https://twitter.com/Kunal_K29">
   <img align="left" alt="Kunal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
