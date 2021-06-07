@@ -20,6 +20,24 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kunal-khandelwal-54b4b117a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 <a href="https://www.instagram.com/kunal._.khandelwal/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
  
+<a href="https://twitter.com/Kunal_K29">
+  <img align="left" alt="Kunal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+ <a href="https://www.linkedin.com/in/kunal-khandelwal-54b4b117a/">
+  <img align="left" alt="Kunal's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/kunalkhandelwal">
+  <img align="left" alt="Kunal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+<a href="https://www.instagram.com/kunal._.khandelwal/">
+  <img align="left" alt="Kunal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/kunal.khandelwal.9828">
+  <img align="left" alt="Kunal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+ 
+<br/>
+ 
 ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kunalkhandelwal&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
  
  <a href="https://kunalkhandelwal.github.io">
