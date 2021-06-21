@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Kunal Khandelwal. I am pursuing Computer Science Engineering and am currently in my Final year. 
+### I'm Kunal Khandelwal. I am pursuing Computer Science Engineering & am currently in my Final year. 
 
 <!--
 **kunalkhandelwal/kunalkhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
