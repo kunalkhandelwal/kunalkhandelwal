@@ -51,4 +51,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalkhandelwal&show_icons=true&theme=light&line_height=27" alt="Vatsal's github stats"/>
 </a>
 -->
+<a href="https://github.com/kunalkhandelwal/kunalkhandelwal">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkhandelwal&theme=dark" alt="Kunal's Github Stats" />
+</a>
   
