@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <br/>
  
 <!--[Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kunalkhandelwal&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)/-->
+<br>
+<br>  
  
 <!--
   <a href="https://kunalkhandelwal.github.io">
