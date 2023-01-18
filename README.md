@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Kunal Khandelwal. I am pursuing my Master's in Purdue School of Science. 
+### I'm Kunal Khandelwal. I am pursuing my Master's at Purdue School of Science. 
 
 <!--
 **kunalkhandelwal/kunalkhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
