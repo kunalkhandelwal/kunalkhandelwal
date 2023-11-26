@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 ### I'm Kunal Khandelwal. I am pursuing my Master's at Purdue University. 
 
 <!--
